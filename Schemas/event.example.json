@@ -1,0 +1,18 @@
+{
+  "id": "EVT_W01_0001",
+  "world_id": "W01",
+  "title": "事件标题",
+  "conditions": {
+    "node": "NODE_BEACH",
+    "flags_all": [],
+    "flags_none": []
+  },
+  "weight": 100,
+  "choices": [
+    "CHOICE_1",
+    "CHOICE_2"
+  ],
+  "tags": [
+    "exploration"
+  ]
+}
